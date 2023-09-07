@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Eat_And_Split/static/css/main.a3d30967.css",
+    "main.js": "/Eat_And_Split/static/js/main.599c1f15.js",
+    "static/media/resturant.jpg": "/Eat_And_Split/static/media/resturant.f36f6f7bc1a3309aa34e.jpg",
+    "index.html": "/Eat_And_Split/index.html",
+    "main.a3d30967.css.map": "/Eat_And_Split/static/css/main.a3d30967.css.map",
+    "main.599c1f15.js.map": "/Eat_And_Split/static/js/main.599c1f15.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a3d30967.css",
+    "static/js/main.599c1f15.js"
+  ]
+}
